@@ -12,7 +12,7 @@
     <url>https://aws.amazon.com/kinesis</url>
 
     <scm>
-        <url>https://github.com/awslabs/amazon-kinesis-learning.git</url>
+        <url>https://github.com/prghere/kinesis-streams-poc.git</url>
     </scm>
     <build>
         <plugins>
