@@ -1,0 +1,7 @@
+C:\git\kinesis-streams-poc\src\main\java\com\erdos\aws\stocktrades\processor\StockTradeRecordProcessor.java
+C:\git\kinesis-streams-poc\src\main\java\com\erdos\aws\stocktrades\processor\StockTradesProcessor.java
+C:\git\kinesis-streams-poc\src\main\java\com\erdos\aws\stocktrades\writer\StockTradesWriter.java
+C:\git\kinesis-streams-poc\src\main\java\com\erdos\aws\stocktrades\writer\StockTradeGenerator.java
+C:\git\kinesis-streams-poc\src\main\java\com\erdos\aws\stocktrades\processor\StockStats.java
+C:\git\kinesis-streams-poc\src\main\java\com\erdos\aws\stocktrades\model\StockTrade.java
+C:\git\kinesis-streams-poc\src\main\java\com\erdos\aws\stocktrades\processor\StockTradeRecordProcessorFactory.java

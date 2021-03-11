@@ -1,0 +1,9 @@
+com\erdos\aws\stocktrades\model\StockTrade$TradeType.class
+com\erdos\aws\stocktrades\model\StockTrade.class
+com\erdos\aws\stocktrades\writer\StockTradesWriter.class
+com\erdos\aws\stocktrades\processor\StockTradesProcessor.class
+com\erdos\aws\stocktrades\processor\StockTradeRecordProcessor.class
+com\erdos\aws\stocktrades\writer\StockTradeGenerator.class
+com\erdos\aws\stocktrades\processor\StockStats.class
+com\erdos\aws\stocktrades\writer\StockTradeGenerator$StockPrice.class
+com\erdos\aws\stocktrades\processor\StockTradeRecordProcessorFactory.class
